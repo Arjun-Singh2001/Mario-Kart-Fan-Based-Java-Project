@@ -1,0 +1,2 @@
+# Mario-Kart-Fan-Based-Java-Project
+This project was created using Dr. Java. To use and play with this project and its output, you will want to download all the files and save them in a folder where you can access all of them at once along with the main program that runs the entire project, which is named "mariokart" java file. Have fun and enjoy playing this fan based Mario Kart project, which takes in the applications of all Mario Kart series of item routing in different placement positions.
